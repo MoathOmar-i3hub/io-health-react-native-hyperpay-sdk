@@ -1,6 +1,6 @@
 {
-  "name": "react-native-hyperpay-sdk",
-  "version": "0.37.0",
+  "name": "io-health-react-native-hyperpay-sdk",
+  "version": "1.0.0",
   "description": "hyperpay",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
@@ -13,7 +13,7 @@
     "android",
     "ios",
     "cpp",
-    "react-native-hyperpay-sdk.podspec",
+    "io-health-react-native-hyperpay-sdk.podspec",
     "ipworks3ds_sdk.xcframework",
     "OPPWAMobile.xcframework",
     "!lib/typescript/example",
@@ -36,19 +36,19 @@
     "react-native",
     "ios",
     "android",
-    "react-native-hyperpay-sdk",
+    "io-health-react-native-hyperpay-sdk",
     "hyperpay",
     "payment",
     "apple-pay",
     "react-native-hyperpay"
   ],
-  "repository": "https://github.com/RMabroukS/react-native-hyperpay-sdk",
+  "repository": "https://github.com/MoathOmar-i3hub/io-health-react-native-hyperpay-sdk",
   "author": "RMabroukS <r.mabrouk.sayed@gmail.com> (https://github.com/RMabroukS)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/RMabroukS/react-native-hyperpay-sdk/issues"
+    "url": "https://github.com/MoathOmar-i3hub/io-health-react-native-hyperpay-sdk/issues"
   },
-  "homepage": "https://github.com/RMabroukS/react-native-hyperpay-sdk#readme",
+  "homepage": "https://github.com/MoathOmar-i3hub/io-health-react-native-hyperpay-sdk#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },

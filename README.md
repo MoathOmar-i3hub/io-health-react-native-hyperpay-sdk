@@ -1,17 +1,17 @@
-# react-native-hyperpay-sdk
+# io-health-react-native-hyperpay-sdk
 
 hyperpay
 
 ## Installation
 
 ```sh
-npm i react-native-hyperpay-sdk
+npm i io-health-react-native-hyperpay-sdk
 ```
 
 ## Usage
 
 ```js
-import HyperPay from 'react-native-hyperpay-sdk'
+import HyperPay from 'io-health-react-native-hyperpay-sdk'
 
 // the firt step , set default configiration 
 // 1- shopperResultURL to redirect to this url after the payment completed
