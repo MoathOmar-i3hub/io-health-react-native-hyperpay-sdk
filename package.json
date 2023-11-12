@@ -43,15 +43,12 @@
     "react-native-hyperpay"
   ],
   "repository": "https://github.com/MoathOmar-i3hub/io-health-react-native-hyperpay-sdk",
-  "author": "RMabroukS <r.mabrouk.sayed@gmail.com> (https://github.com/RMabroukS)",
+  "author": "Io Health",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/MoathOmar-i3hub/io-health-react-native-hyperpay-sdk/issues"
   },
   "homepage": "https://github.com/MoathOmar-i3hub/io-health-react-native-hyperpay-sdk#readme",
-  "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
-  },
   "devDependencies": {
     "@commitlint/config-conventional": "^11.0.0",
     "@react-native-community/eslint-config": "^2.0.0",
