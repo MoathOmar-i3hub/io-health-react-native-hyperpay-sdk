@@ -1,6 +1,6 @@
 {
   "name": "io-health-react-native-hyperpay-sdk",
-  "version": "v1.0.01-hp.6.0",
+  "version": "1.0.1",
   "description": "hyperpay",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
@@ -146,5 +146,6 @@
         }
       ]
     ]
-  }
+  },
+  "packageManager": "yarn@1.22.19"
 }
